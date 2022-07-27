@@ -2,6 +2,7 @@ body {
   color: #333;
   text-align: center;
   font-family: "Courier New", Courier, monospace;
+  background: rgb(197, 196, 196);
 }
 #container {
   width: 70%;
