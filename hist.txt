@@ -1,2 +1,3 @@
 Es la historia de  jose salinas
-mañana continuaremos con su trabajo
+mañana continuaremos con su trabajo,
+estamos repasando git
